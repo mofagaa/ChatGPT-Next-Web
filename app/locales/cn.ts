@@ -22,7 +22,11 @@ const cn = {
     SubTips: "或者输入你的 OpenAI 或 Google AI 密钥",
     Input: "在此处填写访问码",
     Confirm: "确认",
-},
+    Later: "稍后再说",
+    SaasTips: "配置太麻烦，想要立即使用",
+    TopTips:
+      "🥳 NextChat AI 首发优惠，立刻解锁 OpenAI o1, GPT-4o, Claude-3.5 等最新大模型",
+  },
   ChatItem: {
     ChatItemCount: (count: number) => `${count} 条对话`,
   },
