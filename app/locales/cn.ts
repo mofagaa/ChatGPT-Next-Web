@@ -12,7 +12,7 @@ const cn = {
        \\ 1️⃣ 想要零配置开箱即用，[点击这里立刻开启对话 🚀](${SAAS_CHAT_UTM_URL})
        \\ 2️⃣ 如果你想消耗自己的 OpenAI 资源，点击[这里](/#/settings)修改设置 ⚙️`
       : `😆 对话遇到了一些问题，不用慌:
-       \ 您好，请点击[这里](/#/auth)输入访问秘钥 🔑
+       \ 👉 请点击[这里](/#/auth)输入访问秘钥 🔑
        `,
   },
   Auth: {
@@ -23,10 +23,6 @@ const cn = {
     Input: "在此处填写访问码",
     Confirm: "确认",
     Later: "稍后再说",
-    SaasTips: "配置太麻烦，想要立即使用",
-    TopTips:
-      "🥳 NextChat AI 首发优惠，立刻解锁 OpenAI o1, GPT-4o, Claude-3.5 等最新大模型",
-  },
   ChatItem: {
     ChatItemCount: (count: number) => `${count} 条对话`,
   },
